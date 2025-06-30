@@ -9,7 +9,7 @@ Steps for Task 1: Chatbot -
 Steps for Task 2: Tic-Tac-Toe -
 `Tic-Tac-Toe.py`
 
-Steps for Task 1: Recommendation System -
+Steps for Task 3: Recommendation System -
 `Recommendation System.py`
 
 
